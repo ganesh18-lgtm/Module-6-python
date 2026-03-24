@@ -31,7 +31,7 @@ obj_hammerhead = Shark()
 obj_goldfish.type()
 obj_hammerhead.type()
 ```
-## OUTPUT
+## OUTPUT:
 <img width="1028" height="347" alt="image" src="https://github.com/user-attachments/assets/1cd6d302-7451-46d0-9d2c-b543daae12ab" />
 
 ## RESULT
