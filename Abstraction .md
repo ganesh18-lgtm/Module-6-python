@@ -1,12 +1,12 @@
 # 🐍 Python OOP: Abstract Class & Method Example
 
-## 🎯 AIM
+## 🎯 AIM:
 
 To create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle`.
 
 ---
 
-## 🧠 ALGORITHM
+## 🧠 ALGORITHM:
 
 1. **Import ABC module**:
    - Use `from abc import ABC, abstractmethod` to define abstract classes and methods.
