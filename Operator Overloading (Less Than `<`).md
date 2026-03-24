@@ -1,12 +1,12 @@
 # 🐍 Python OOP: Operator Overloading (Less Than `<`)
 
-## 🎯 AIM
+## 🎯 AIM:
 
 To write a Python program that demonstrates **operator overloading** by overloading the **less than (`<`)** operator using a custom class.
 
 ---
 
-## 🧠 ALGORITHM
+## 🧠 ALGORITHM:
 
 1. **Create Class `A`**:
    - Define the `__init__()` method to initialize the object with a value `a`.
@@ -24,7 +24,7 @@ To write a Python program that demonstrates **operator overloading** by overload
 
 ---
 
-## 💻 Program
+## 💻 Program:
 ```
 class A:
     def __init__(self,a):
